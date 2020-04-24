@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deanmcpherson/react-native-sortable-listview.git"
+    "url": "git+https://github.com/demonhunt/react-native-sortable-listview.git"
   },
   "dependencies": {
     "deprecated-react-native-listview": "0.0.6"
